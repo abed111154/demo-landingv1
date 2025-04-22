@@ -1,72 +1,48 @@
-# Miraculia - AI-Powered Marketing Agency (Display Version)
+# Miraculia - Display Version
 
-This repository contains a display-only version of the Miraculia AI-Powered Marketing Agency landing page. This is a showcase version intended for demonstration purposes only, with the exact same appearance as the full version.
+This directory contains the display-only version of the Miraculia Marketing Landing Page. This version is visually identical to the full version but with limited functionality.
 
-![Miraculia Preview](https://via.placeholder.com/1200x600/0f172a/FFFFFF?text=Miraculia+AI-Powered+Marketing)
+## GitHub Pages Deployment
 
-## 🚀 Live Display Version
+1. Upload all files in this directory to a GitHub repository
+2. Enable GitHub Pages in the repository settings
+3. The site will be available at `https://yourusername.github.io/miraculia-display`
 
-View the display version: [https://yourusername.github.io/miraculia-display](https://yourusername.github.io/miraculia-display)
+## Important Notes
 
-**Note:** All "View on GitHub" buttons and links will redirect to contact email: reshah4pc@gmail.com
+- This is a display-only version with the exact same appearance as the full version
+- All "View on GitHub" buttons redirect to the contact email
+- Forms are non-functional in this version
+- Admin panel access is disabled
 
-## ✨ Features
+## Important Files
 
-- **Modern React + Vite Frontend**
-  - Responsive design works on all devices
-  - Dark/Light mode toggle
-  - Smooth animations with Framer Motion
-  - Tailwind CSS for styling
-  - Futuristic dark theme with glassmorphism and neon gradients
+- `index.html` - The main HTML file
+- `assets/` - Contains all JavaScript, CSS, and media files
+- `.htaccess` - Apache server configuration for SPA routing
+- `robots.txt` - Search engine crawling instructions
+- `sitemap.xml` - Site structure for search engines
 
-- **AI-Powered Marketing Showcase**
-  - Keyword Extractor tool demonstration
-  - AI-driven content optimization examples
-  - Marketing automation visualization
+## After Deployment
 
-- **Professional Sections**
-  - Hero section with animated elements
-  - Services showcase
-  - About us with team profiles
-  - Testimonials carousel
-  - Contact form (demo only)
+After deploying these files, you can access:
 
-## 🔧 Technologies Used
+- The main website at: `https://your-domain.com/`
+- The admin panel at: `https://your-domain.com/admin`
 
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-- React Router
-- React Icons
+Default admin credentials:
+- Username: `admin`
+- Password: `password`
 
-## 📋 Demo Limitations
+**Important**: Change these default credentials immediately after your first login!
 
-Please note that this is a demonstration version with the following limitations:
+## Full Version
 
-- Admin panel is not functional in this demo
-- Contact form submissions are not processed
-- Some features are simulated for demonstration purposes
-- Data is static and not editable
+For the full functional version with working admin panel, contact forms, and all features, please contact:
 
-## 🛒 Full Version
-
-The full version of Miraculia includes:
-
-- Complete admin panel with content management
-- Functional contact form with email delivery
-- Working AI tools integration
-- Data management capabilities
-- Documentation and support
-
-To purchase the full version, please contact: reshah4pc@gmail.com
-
-## 📄 License
-
-This demo version is provided for viewing and evaluation purposes only. The code cannot be used for commercial purposes without purchasing the full version.
-
-Copyright © 2025 Miraculia Marketing Solutions. All Rights Reserved.
+Email: reshah4pc@gmail.com
+Subject: Miraculia Full Version Inquiry
 
 ---
 
-*Note: This is a showcase repository. The full source code with all features and functionality is available for purchase.*
+Copyright © 2025 Miraculia Marketing Solutions. All Rights Reserved.
