@@ -1,12 +1,14 @@
-# Miraculia - AI-Powered Marketing Agency Demo
+# Miraculia - AI-Powered Marketing Agency (Display Version)
 
-This repository contains a demo version of the Miraculia AI-Powered Marketing Agency landing page. This is a showcase version intended for demonstration purposes only.
+This repository contains a display-only version of the Miraculia AI-Powered Marketing Agency landing page. This is a showcase version intended for demonstration purposes only, with the exact same appearance as the full version.
 
 ![Miraculia Preview](https://via.placeholder.com/1200x600/0f172a/FFFFFF?text=Miraculia+AI-Powered+Marketing)
 
-## 🚀 Live Demo
+## 🚀 Live Display Version
 
-View the live demo: [https://yourusername.github.io/miraculia-demo](https://yourusername.github.io/miraculia-demo)
+View the display version: [https://yourusername.github.io/miraculia-display](https://yourusername.github.io/miraculia-display)
+
+**Note:** All "View on GitHub" buttons and links will redirect to contact email: reshah4pc@gmail.com
 
 ## ✨ Features
 

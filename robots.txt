@@ -5,5 +5,6 @@ User-agent: *
 Allow: /
 Allow: /assets/
 
-# This is a demo version
-# For the full version, contact: reshah4pc@gmail.com
+# This is a display-only version
+# For the full functional version, contact: reshah4pc@gmail.com
+# All GitHub links redirect to contact email
