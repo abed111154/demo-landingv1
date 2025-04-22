@@ -1,0 +1,42 @@
+MIRACULIA - QUICK INSTALLATION GUIDE
+=================================
+
+Thank you for purchasing Miraculia! This file contains quick installation instructions.
+For detailed instructions, please refer to the SETUP-GUIDE.md file in the docs folder.
+
+QUICK INSTALLATION STEPS
+---------------------
+
+1. Upload all files to your web server
+   - Use FTP, cPanel File Manager, or any other method to upload files
+   - Make sure to upload to the root web directory (usually public_html or www)
+
+2. Ensure the .htaccess file is in the root directory
+   - This is necessary for SPA routing on Apache servers
+   - If you're using Nginx, refer to the installation guide for the appropriate Nginx configuration
+
+3. Access the admin panel
+   - Open your browser and navigate to https://your-domain.com/admin
+   - Use the default credentials:
+     - Username: admin
+     - Password: password
+   - Important: Change the default credentials immediately after logging in!
+
+4. Configure website settings
+   - Navigate to the "Settings" section in the admin panel
+   - Update general information (site name, logo, favicon, etc.)
+   - Configure contact information and social media links
+   - Configure SMTP email settings (required for the contact form)
+
+5. Customize website content
+   - Use the "Content" section in the admin panel to update text for each section
+   - Add your services, blog posts, and testimonials
+
+TECHNICAL SUPPORT
+----------
+
+If you encounter any issues or have questions, please contact our support team:
+- Email: support@miraculia.com
+- Subject Line: Miraculia Support - [Your Issue]
+
+Copyright © 2025 Miraculia Marketing Solutions. All Rights Reserved.

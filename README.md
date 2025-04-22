@@ -1,47 +1,60 @@
-# Miraculia - Display Version
+# Miraculia - Release Package
 
-This directory contains the display-only version of the Miraculia Marketing Landing Page. This version is visually identical to the full version but with limited functionality.
+**Version:** 1.0.0
+**Author:** Miraculia Marketing Solutions
+**License:** Commercial - All Rights Reserved
 
-## GitHub Pages Deployment
+## Welcome to Miraculia Release Package!
 
-1. Upload all files in this directory to a GitHub repository
-2. Enable GitHub Pages in the repository settings
-3. The site will be available at `https://yourusername.github.io/miraculia-display`
+Thank you for purchasing Miraculia! This package contains all the necessary files to deploy and run the website on your web server.
 
-## Important Notes
+## Package Contents
 
-- This is a display-only version with the exact same appearance as the full version
-- All "View on GitHub" buttons redirect to the contact email
-- Forms are non-functional in this version
-- Admin panel access is disabled
+1. **Ready-to-Deploy Files**
+   - All built and optimized HTML, CSS, and JavaScript files
+   - Images and other assets
+   - `.htaccess` file for SPA routing configuration
 
-## Important Files
+2. **Data Files**
+   - JSON files containing the website content
+   - Can be modified through the admin panel after installation
 
-- `index.html` - The main HTML file
-- `assets/` - Contains all JavaScript, CSS, and media files
-- `.htaccess` - Apache server configuration for SPA routing
-- `robots.txt` - Search engine crawling instructions
-- `sitemap.xml` - Site structure for search engines
+3. **Documentation**
+   - Installation and setup guide
+   - Admin panel usage guide
+   - Troubleshooting guide
 
-## After Deployment
+## Quick Deployment Steps
 
-After deploying these files, you can access:
+1. **Upload all files to your web server**
+   - Use FTP, cPanel File Manager, or any other method to upload files
+   - Make sure to upload to the root web directory (usually `public_html` or `www`)
 
-- The main website at: `https://your-domain.com/`
-- The admin panel at: `https://your-domain.com/admin`
+2. **Ensure the `.htaccess` file is in the root directory**
+   - This is necessary for SPA routing on Apache servers
+   - If you're using Nginx, refer to the installation guide for the appropriate Nginx configuration
 
-Default admin credentials:
-- Username: `admin`
-- Password: `password`
+3. **Access the admin panel**
+   - Open your browser and navigate to `https://your-domain.com/admin`
+   - Use the default credentials:
+     - Username: `admin`
+     - Password: `password`
+   - **Important**: Change the default credentials immediately after logging in!
 
-**Important**: Change these default credentials immediately after your first login!
+## Detailed Documentation
 
-## Full Version
+For detailed instructions, please refer to the documentation files in the `docs` folder:
 
-For the full functional version with working admin panel, contact forms, and all features, please contact:
+- **SETUP-GUIDE.md**: Detailed step-by-step setup guide
+- **ADMIN-DOCUMENTATION.md**: Comprehensive guide to admin panel features
+- **TROUBLESHOOTING-GUIDE.md**: Solutions to common issues
 
-Email: reshah4pc@gmail.com
-Subject: Miraculia Full Version Inquiry
+## Technical Support
+
+If you encounter any issues or have questions, please contact our support team:
+
+- **Email:** reshah4pc@gmail.com
+- **Subject Line:** Miraculia Support - [Your Issue]
 
 ---
 
